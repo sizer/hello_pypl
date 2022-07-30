@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pip uninstall first_sizer_lib
+pip install -i https://test.pypi.org/simple/ first-sizer-lib==0.0.1
